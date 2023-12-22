@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.AssemblyInfo.cs
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ИКпоОсновному\ИК\bin\Debug\net6.0\ИК.exe
+C:\Users\1\Desktop\ИКпоОсновному\ИК\bin\Debug\net6.0\ИК.deps.json
+C:\Users\1\Desktop\ИКпоОсновному\ИК\bin\Debug\net6.0\ИК.runtimeconfig.json
+C:\Users\1\Desktop\ИКпоОсновному\ИК\bin\Debug\net6.0\ИК.dll
+C:\Users\1\Desktop\ИКпоОсновному\ИК\bin\Debug\net6.0\ИК.pdb
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.dll
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\refint\ИК.dll
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.pdb
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ИК.genruntimeconfig.cache
+C:\Users\1\Desktop\ИКпоОсновному\ИК\obj\Debug\net6.0\ref\ИК.dll
